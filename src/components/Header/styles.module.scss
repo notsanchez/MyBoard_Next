@@ -1,0 +1,48 @@
+.headerContainer{
+    height: 6rem;
+    background-color: #000000;
+}
+
+.headerContent{
+    max-width: 1120px;
+    height: 6rem;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+
+    img{
+        cursor: pointer;
+    }
+
+    nav{
+        margin-left: 5rem;
+        height: 5rem;
+
+        a{
+            font-weight: bold;
+            display: inline-block;
+            position: relative;
+            padding: 0 0.5rem;
+            height: 5rem;
+            line-height: 5rem;
+            color: #FFF;
+            transition: all 0.2s;
+            & + a{
+                margin-left: 1rem;   
+            }
+        }
+
+        a:hover{
+            transform: scale(1.1);
+            color: #9611d8;
+        }
+
+        .FaGithub:hover{
+            color: #9611d8;
+        }
+    }
+
+    button{
+        margin-left: auto;
+    }
+}
