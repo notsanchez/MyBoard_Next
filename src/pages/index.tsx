@@ -36,7 +36,7 @@ export default function Home({ data }: HomeProps ) {
           <span>100% Gratuita</span> e online.
         </p>
         <p>
-          <Link href="https://github.com/notsanchez/MyBoard_NextJS">
+          <Link href="https://github.com/notsanchez/MyBoard_React">
             <button> <FaGithub className={styles.GitIcon}/> GitHub Repo</button>
           </Link>
         </p>
