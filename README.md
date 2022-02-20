@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-https://avatars.githubusercontent.com/u/40525348?v=4
+![image](https://avatars.githubusercontent.com/u/40525348?v=4)
 
 First, run the development server:
 
